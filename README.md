@@ -1,7 +1,7 @@
 # Arduino ESP32 ThingsBoard IoT
 The Buildstorm platform simplifies the integration of IoT core features onto ESP32 Hardware, spanning from basic IoT functionalities to advanced features like OTA updates and provisioning.
 
-The architecture is based on the core IDF APIs, complemented by a C++ wrapper tailored for application use, guaranteeing non-blocking operation of all APIs. Each user action, including HTTP requests, MQTT publishing, Shadow updates, and OTA, is logged as an event and seamlessly managed in the background. To maintain this seamless operation, the platform effectively runs a system task.
+The architecture is based on the core IDF APIs, complemented by a C++ wrapper tailored for application use, guaranteeing non-blocking operation of all APIs. Each user action, including HTTP requests, MQTT publishing, Telemetry/Arrribute updates, and OTA, is logged as an event and seamlessly managed in the background. To maintain this seamless operation, the platform effectively runs a system task.
 
 This establishes a robust foundation for your upcoming IoT project.
 
