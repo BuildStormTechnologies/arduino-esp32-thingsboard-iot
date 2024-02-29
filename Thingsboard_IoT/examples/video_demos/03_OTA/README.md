@@ -4,9 +4,8 @@
 1. [ESP32 ThingsBoard IoT Platform](https://buildstorm.com/solutions/esp32-thingsboard-iot-platform/)
 
 ## Blogs
-1. [ThingsBoard IoT Device Provisioning Setup](https://buildstorm.com/blog/thingsboard-iot-device-provisioning-setup/)
-2. [ThingsBoard OTA Updates](https://buildstorm.com/blog/thingsboard-ota-updates/)
-3. [API Reference Guide]
+1. [ThingsBoard OTA Updates](https://buildstorm.com/blog/thingsboard-ota-updates/)
+2. [API Reference Guide]
 
 ## Requirements
 
